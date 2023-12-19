@@ -1,1 +1,1 @@
-check git diff --check
+test commit --no-edit
